@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Figures/results-1.png" width="700" alt="Pipeline Overview"/>
+</p>
+
+
 # Diffusion-Based Number Plate Degradation and Synthetic Dataset
 
 This repository contains the code, dataset, and benchmarks for our project on **synthetic number plate degradation** using **diffusion-based inpainting pipelines**.  
