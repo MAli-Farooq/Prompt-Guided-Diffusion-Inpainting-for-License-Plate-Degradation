@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Figures/results-1.png" width="700" alt="Pipeline Overview"/>
+  <img src="Figures/results-1.png" width="900" alt="Pipeline Overview"/>
 </p>
 
 
