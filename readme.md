@@ -54,7 +54,7 @@ Our pipeline combines:
 - **ControlNet with edge conditioning**
 - **Prompt-driven degradation synthesis**
 
-<img src="Figures/BD-1.png" width="600">
+<img src="Figures/BD-1.png" width="800">
 
 ---
 
