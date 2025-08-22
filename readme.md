@@ -23,6 +23,9 @@ Our contributions:
 </p>
  
 - **OCR validation benchmarks** to evaluate robustness against degradations.
+  <p align="center">
+  <img src="Figures/OCR.png" width="900" alt="Pipeline Overview"/>
+</p>
 
 ---
 
