@@ -1,9 +1,9 @@
+# Diffusion-Based Number Plate Degradation and Synthetic Dataset
+
 <p align="center">
   <img src="Figures/results-1.png" width="900" alt="Pipeline Overview"/>
 </p>
 
-
-# Diffusion-Based Number Plate Degradation and Synthetic Dataset
 
 This repository contains the code, dataset, and benchmarks for our project on **synthetic number plate degradation** using **diffusion-based inpainting pipelines**.  
 We introduce a framework to generate realistic degradations (dust, blur, occlusion, shadow, lighting effects) on clean number plates, enabling robust OCR evaluation and training.
