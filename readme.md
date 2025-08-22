@@ -61,5 +61,5 @@ Our pipeline combines:
 ## 🛠 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/numberplate-degradation.git
-cd numberplate-degradation
+git clone [https://github.com/your-username/numberplate-degradation.git](https://github.com/MAli-Farooq/Prompt-Guided-Diffusion-Inpainting-for-License-Plate-Degradation/)
+cd Prompt-Guided-Diffusion-Inpainting-for-License-Plate-Degradation
