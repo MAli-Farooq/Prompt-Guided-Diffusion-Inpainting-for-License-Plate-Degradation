@@ -16,7 +16,12 @@ To address this, we propose a **diffusion-based degradation pipeline** that simu
 
 Our contributions:
 - A **synthetic dataset** of degraded number plates.
+  
 - A **pipeline** using merged diffusion models, ControlNet, and prompt-driven inpainting.
+  <p align="center">
+  <img src="Figures/pipeline.png" width="900" alt="Pipeline Overview"/>
+</p>
+ 
 - **OCR validation benchmarks** to evaluate robustness against degradations.
 
 ---
