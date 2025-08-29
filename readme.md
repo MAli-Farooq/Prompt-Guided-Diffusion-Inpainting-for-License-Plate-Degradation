@@ -42,7 +42,7 @@ The dataset contains **30 unique clean number plates** with corresponding degrad
 | Full Plates with Degradations |  (643) |
 | Types of Degradations | Dust, Blur, Occlusion, Lighting |
 
-👉 The dataset is available under the folder [`dataset/`](dataset/)  
+👉 The dataset is available under the folder [`dataset/`](/https://huggingface.co/datasets/MAli-Farooq/Diffusion-Based-Number-Plate-Degradation-Synthetic-Dataset)  
 
 
 ---
