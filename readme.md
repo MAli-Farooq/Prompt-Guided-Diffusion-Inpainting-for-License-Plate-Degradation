@@ -39,7 +39,7 @@ The dataset contains **30 unique clean number plates** with corresponding degrad
 | Masked Regions | 30 |
 | Canny Edge Maps | 30 |
 | Cropped ROI Plates | 30 |
-| Full Plates with Degradations |  (643) |
+| Full Plates with Degradations |  (1500) |
 | Types of Degradations | Dust, Blur, Occlusion, Lighting |
 
 
