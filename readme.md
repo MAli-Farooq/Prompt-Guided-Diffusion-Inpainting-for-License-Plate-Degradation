@@ -59,6 +59,9 @@ Our pipeline combines:
 
 ---
 
+## 📂 Models: *Inpainting and Diffusion Models*
+The models will be uploaded soon 
+
 ## 🛠 Installation
 Clone the repository:
 ```bash
